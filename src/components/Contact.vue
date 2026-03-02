@@ -61,7 +61,7 @@ const isLoading = ref(false);
 
 const notyf = new Notyf();
 
-const SITE_KEY ='6LdVKkosAAAAAPCCwd45RtqvWQ5100WAovrF9jV0';
+const SITE_KEY ='6LcOHn0sAAAAACBPV8aZ9HvLkYm_tAO69JPv5ACs';
 const recaptchaContainer = ref(null);
 const recaptchaWidgetId = ref(null);
 const recaptchaToken = ref('');
