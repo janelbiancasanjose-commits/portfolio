@@ -1,0 +1,55 @@
+[
+    {  
+        "id": 1,
+        "title": "E-commerce App",
+        "image": "/images/ecomm.jpg",
+        "url": "http://zuitt-bootcamp-prod-582-9183-sanjose.s3-website.us-east-1.amazonaws.com/"
+    },
+    {
+        "id": 2,
+        "title": "Airline Booking System Prototype",
+        "image": "/images/airline-prototype-figma.jpg",
+        "url": "https://www.figma.com/proto/m6obG7L5Tc5qXGoOKBl1LQ/Airline-Prototype?node-id=14-1211&t=2ncCNMHUeICfCNXf-1&scaling=min-zoom&content-scaling=fixed&page-id=14%3A1210"
+    },
+    {
+        "id": 3,
+        "title": "Business Website",
+        "image": "/images/business-website.jpg",
+        "url": "https://janelbiancasanjose-commits.github.io/home-page-exam/"
+    },
+    {
+        "id": 4,
+        "title": "Fitness Tracking App",
+        "image": "/images/fitness-tracking-app.jpg",
+        "url": "https://fitness-tracking-zsax8rde6-janel-biancas-projects.vercel.app/login"
+    },
+    {
+        "id": 5,
+        "title": "Educational Website",
+        "image": "/images/education-website.jpg",
+        "url": "https://janelbiancasanjose-commits.github.io/app-building-static2/"
+    },
+    {
+        "id": 6,
+        "title": "Movie Website",
+        "image": "/images/movie-app.jpg",
+        "url": "https://movie-app-client-rho-dusky.vercel.app/login"
+    },
+    {
+        "id": 7,
+        "title": "Blog Posting Website",
+        "image": "/images/blog-posting.jpg",
+        "url": "https://blog-app-mmbr.vercel.app/login"
+    },
+    {
+        "id": 8,
+        "title": "Course Booking API Documentation",
+        "image": "/images/course-booking.jpg"
+    },
+    {
+        "id": 9,
+        "title": "E-commerce API Documentation",
+        "image": "/images/e-commerce-documentation.jpg"
+    }
+
+]
