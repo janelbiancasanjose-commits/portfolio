@@ -33,13 +33,13 @@
         "id": 6,
         "title": "Movie Website",
         "image": "/images/movie-app.jpg",
-        "url": "https://movie-app-client-rho-dusky.vercel.app/login"
+        "url": "https://movie-app-client-rho-dusky.vercel.app/movies"
     },
     {
         "id": 7,
         "title": "Blog Posting Website",
         "image": "/images/blog-posting.jpg",
-        "url": "https://blog-app-mmbr.vercel.app/login"
+        "url": "https://blog-app-mmbr.vercel.app/"
     },
     {
         "id": 8,
